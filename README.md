@@ -24,6 +24,26 @@
 
 <br />
 
+## :trophy: My Github Stats:
+
+<!-- <img align="left" alt="josueeek's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=josueeek&show_icons=true&hide_border=true&theme=tokyonight" />
+ -->
+
+<a href="https://github.com/josueeek">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josueeek&theme=tokyonight&hide_langs_below=1" />
+</a>
+
+## 🌗 Weekly Development Breakdown
+
+```text
+TypeScript  5 hrs 6 mins   ███████▌░░░░░░░░░░░░░  36.1%
+JSON        2 hrs 29 mins  ███▋░░░░░░░░░░░░░░░░░  17.6%
+JavaScript  2 hrs 16 mins  ███▎░░░░░░░░░░░░░░░░░  16.1%
+PHP         1 hr 19 mins   █▉░░░░░░░░░░░░░░░░░░░   9.3%
+K8s         47 mins        █▏░░░░░░░░░░░░░░░░░░░   5.6%
+```
+
+
 ## 🧰 **Languages and Tools:**  
 
 
@@ -52,18 +72,3 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
 <br />
-
-## :trophy: My Github Stats:
-
-<img align="left" alt="josueeek's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=josueeek&show_icons=true&hide_border=true&theme=tokyonight" />
-
-
-<a href="https://github.com/josueeek">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josueeek&theme=tokyonight&hide_langs_below=1" />
-</a>
-
-[desenfila]: https://desenfila.com
-[website]: http://cleciobarbosa.com
-[twitter]: https://twitter.com/clecio_sb
-[instagram]: https://instagram.com/cleciosb
-[linkedin]: https://linkedin.com/in/cleciobarbosa

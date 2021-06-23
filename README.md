@@ -4,7 +4,7 @@
 ## I'm a passionate self-taught Full Stack Developer 🚀 from Brazil
 
 
-<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/master/images/banner.gif" width="200 " height="200" /></a>
+<a href="#"><img align="right" src="https://github.com/josueeek/josueeek/blob/master/images/banner.gif" width="200 " height="200" /></a>
 
 - 🔭 I’m currently working at DUO!
 - 🌱 I’m currently learning React Native, Docker, PHP 8, Python, AI and Blockchain.

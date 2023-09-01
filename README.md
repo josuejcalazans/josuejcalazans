@@ -1,10 +1,10 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Josué Calazans but you can call me Josueeek 😀
-![](https://visitor-badge.laobi.icu/badge?page_id=josueeek.josueeek) [![Github](https://img.shields.io/github/followers/josueeek?label=Followers&logo=Github)](https://github.com/josueeek)
+
 
 ## I'm a passionate self-taught Full Stack Developer 🚀 from Brazil
 
 
-<a href="#"><img align="right" src="https://github.com/josueeek/josueeek/blob/master/images/banner.gif" width="200 " height="200" /></a>
+<a href="#"><img align="right" src="https://github.com/josuejcalazans/josueeek/blob/master/images/banner.gif" width="200 " height="200" /></a>
 
 - 🔭 I’m currently working at DUO!
 - 🌱 I’m currently learning React Native, Docker, PHP 8, Python, AI and Blockchain.
@@ -17,20 +17,18 @@
 
 ### :email: Connect with me: 
 
- <a href="https://linkedin.com/in/jkalazans" target="_blank" rel="noopener noreferrer"> <img align="left" alt="iurdex.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
- <a href="https://linkedin.com/in/jkalazans" target="_blank" rel="noopener noreferrer"> <img  align="left" alt="jkalazans | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
+ <a href="https://linkedin.com/in/josue-calazans" target="_blank" rel="noopener noreferrer"> <img  align="left" alt="jkalazans | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
  <a href="mailto:josue.calazans07@gmail.com" target="_blank" rel="noopener noreferrer"> <img  align="left" alt="jkalazans | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"></a>
- <a href="https://instagram.com/josueeek" target="_blank" rel="noopener noreferrer"> <img  align="left" alt="josueeek | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>   
+ <a href="https://instagram.com/josuejcalazans" target="_blank" rel="noopener noreferrer"> <img  align="left" alt="josuejcalazans | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>   
 
 <br />
 
 ## :trophy: My Github Stats:
 
-<!-- <img align="left" alt="josueeek's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=josueeek&show_icons=true&hide_border=true&theme=tokyonight" />
- -->
+ 
 
-<a href="https://github.com/josueeek">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josueeek&theme=tokyonight&hide_langs_below=1" />
+<a href="https://github.com/josuejcalazans">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuejcalazans&theme=tokyonight&hide_langs_below=1" />
 </a>
 
 ## 🌗 Weekly Development Breakdown

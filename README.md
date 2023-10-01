@@ -70,3 +70,19 @@ K8s         47 mins        █▏░░░░░░░░░░░░░░░�
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
 <br />
+
+
+<div align='center'>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jjunior96&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjunior96&layout=compact&langs_count=7&theme=blue-green"/>
+</div>
+
+### Total de Visitas no perfil :detective: <br>
+
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/jjunior96/count.svg" />
+ </p>
+ 
+  <div align='center'>
+<a height="150em" href="http://www.github.com/jjunior96"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jjunior96&stroke=2ea043&background=171717&ring=3382ed&fire=3382ed&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
+</div>

@@ -30,6 +30,7 @@
 <a href="https://github.com/josuejcalazans">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuejcalazans&theme=tokyonight&hide_langs_below=1" />
 </a>
+ <img  align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=josuejcalazans&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 ## 🌗 Weekly Development Breakdown
 
@@ -79,13 +80,13 @@ K8s         47 mins        █▏░░░░░░░░░░░░░░░�
 
 ### Total de Visitas no perfil :detective: <br>
 
- <p align="center"> 
+ 
    <img alingn="center" src="https://profile-counter.glitch.me/josuejcalazans
 /count.svg" />
- </p>
+  
  
-  <div align='center'>
+ 
 <a height="150em" href="http://www.github.com/josuejcalazans
 "><img src="https://github-readme-streak-stats.herokuapp.com/?user=josuejcalazans
 &stroke=2ea043&background=171717&ring=3382ed&fire=3382ed&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
-</div>
+< 

@@ -72,12 +72,10 @@ K8s         47 mins        █▏░░░░░░░░░░░░░░░�
 <br />
 
 
-<div align='center'>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josuejcalazans
-&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuejcalazans
-&layout=compact&langs_count=7&theme=blue-green"/>
-</div>
+ 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josuejcalazans&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuejcalazans&layout=compact&langs_count=7&theme=blue-green"/>
+ 
 
 ### Total de Visitas no perfil :detective: <br>
 

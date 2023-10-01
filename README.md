@@ -25,7 +25,7 @@
 
 ## :trophy: My Github Stats:
 
-<div align='center'>
+<div >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josuejcalazans&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuejcalazans&layout=compact&langs_count=25&theme=tokyonight"/>
 </div>

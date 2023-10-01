@@ -25,24 +25,11 @@
 
 ## :trophy: My Github Stats:
 
+<div align='center'>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josuejcalazans&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuejcalazans&layout=compact&langs_count=25&theme=tokyonight"/>
+</div>
  
-
-<a href="https://github.com/josuejcalazans">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuejcalazans&theme=tokyonight&hide_langs_below=1" />
-</a>
- <img  align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=josuejcalazans&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-## 🌗 Weekly Development Breakdown
-
-```text
-TypeScript  5 hrs 6 mins   ███████▌░░░░░░░░░░░░░  36.1%
-JSON        2 hrs 29 mins  ███▋░░░░░░░░░░░░░░░░░  17.6%
-JavaScript  2 hrs 16 mins  ███▎░░░░░░░░░░░░░░░░░  16.1%
-PHP         1 hr 19 mins   █▉░░░░░░░░░░░░░░░░░░░   9.3%
-K8s         47 mins        █▏░░░░░░░░░░░░░░░░░░░   5.6%
-```
-
-
 ## 🧰 **Languages and Tools:**  
 
 
@@ -71,22 +58,3 @@ K8s         47 mins        █▏░░░░░░░░░░░░░░░�
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
 <br />
-
-
- 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josuejcalazans&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuejcalazans&layout=compact&langs_count=7&theme=blue-green"/>
- 
-
-### Total de Visitas no perfil :detective: <br>
-
- 
-   <img alingn="center" src="https://profile-counter.glitch.me/josuejcalazans
-/count.svg" />
-  
- 
- 
-<a height="150em" href="http://www.github.com/josuejcalazans
-"><img src="https://github-readme-streak-stats.herokuapp.com/?user=josuejcalazans
-&stroke=2ea043&background=171717&ring=3382ed&fire=3382ed&currStreakNum=0bd967&currStreakLabel=3382ed&sideNums=0bd967&sideLabels=3382ed&dates=0bd967&hide_border=true" /></a>
-< 

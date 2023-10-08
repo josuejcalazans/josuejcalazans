@@ -25,36 +25,24 @@
 
 ## :trophy: My Github Stats:
 
-<div >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josuejcalazans&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuejcalazans&layout=compact&langs_count=25&theme=tokyonight"/>
-</div>
  
+ | [![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=josuejcalazans&theme=tokyonight&utcOffset=-3)](https://github.com/josuejcalazans/github-profile-summary-cards) | [![GitHub Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=josuejcalazans&theme=tokyonight)](https://github.com/josuejcalazans/github-profile-summary-cards) | 
+ | ----------- | ----------- |
+
+
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=josuejcalazans&theme=tokyonight&utcOffset=-3)](https://github.com/josuejcalazans/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josuejcalazans&theme=tokyonight)](https://github.com/josuejcalazans/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+
+  <img src="https://github-profile-trophy.vercel.app/?username=josuejcalazans&theme=tokyonight&utcOffset=-3&margin-w=15&margin-h=15&row=1&column=9"/>
+
+  
 ## 🧰 **Languages and Tools:**  
 
 
-<code><img title="HTML5" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img title="CSS3" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img title="SASS" height="30" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/sass.svg"></code>
-<code><img title="Gulp" height="30" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/gulp.svg"></code>
-<code><img title="Bootstrap" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img title="Javascript" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/aws-1869025-1583149.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
-<br />
+
+
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,apollo,atom,aws,azure,babel,bootstrap,codepen,css,discord,docker,eclipse,electron,emotion,express,figma,firebase,git,github,githubactions,gitlab,graphql,html,idea,instagram,java,js,jest,jquery,laravel,linkedin,linux,md,mongodb,mysql,nestjs,nextjs,nginx,nodejs,php,postgres,postman,prisma,py,rabbitmq,react,redis,redux,regex,rollupjs,sass,spring,sqlite,stackoverflow,styledcomponents,sequelize,svg,tailwind,ts,vercel,vite,vscode,webpack&perline=22)](https://skillicons.dev)
+
+
+
+

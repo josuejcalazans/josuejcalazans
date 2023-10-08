@@ -17,11 +17,12 @@
 
 ### :email: Connect with me: 
 
- <a href="https://linkedin.com/in/josue-calazans" target="_blank" rel="noopener noreferrer"> <img  align="left" alt="jkalazans | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"></a>
- <a href="mailto:josue.calazans07@gmail.com" target="_blank" rel="noopener noreferrer"> <img  align="left" alt="jkalazans | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"></a>
- <a href="https://instagram.com/josuejcalazans" target="_blank" rel="noopener noreferrer"> <img  align="left" alt="josuejcalazans | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>   
-
-<br />
+[![Instagram Badge](https://img.shields.io/badge/-@josuejcalazans-390080?style=flat-square&labelColor=390080&logo=instagram&logoColor=white&link=https://instagram.com/josuejcalazans)](https://instagram.com/josuejcalazans) 
+[![Linkedin Badge](https://img.shields.io/badge/-Josué%20Jhonatas-390080?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josue-calazans/)](https://www.linkedin.com/in/josue-calazans/) 
+[![Gmail Badge](https://img.shields.io/badge/-josue.calazans07@gmail.com-390080?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josue.calazans07@gmail.com)](mailto:josue.calazans07@gmail.com)
+ 
+ | ----------- | ----------- |
+ 
 
 ## :trophy: My Github Stats:
 

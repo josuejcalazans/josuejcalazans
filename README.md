@@ -21,19 +21,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Josué%20Jhonatas-390080?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josue-calazans/)](https://www.linkedin.com/in/josue-calazans/) 
 [![Gmail Badge](https://img.shields.io/badge/-josue.calazans07@gmail.com-390080?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josue.calazans07@gmail.com)](mailto:josue.calazans07@gmail.com)
  
-
-## :trophy: My Github Stats:
-
- 
- | [![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=josuejcalazans&theme=tokyonight&utcOffset=-3)](https://github.com/josuejcalazans/github-profile-summary-cards) | [![GitHub Language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=josuejcalazans&theme=tokyonight)](https://github.com/josuejcalazans/github-profile-summary-cards) | 
- | ----------- | ----------- |
-
-
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=josuejcalazans&theme=tokyonight&utcOffset=-3)](https://github.com/josuejcalazans/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josuejcalazans&theme=tokyonight)](https://github.com/josuejcalazans/github-profile-summary-cards) |  
- | ----------- | ----------- |
-
-  <img src="https://github-profile-trophy.vercel.app/?username=josuejcalazans&theme=tokyonight&utcOffset=-3&margin-w=15&margin-h=15&row=1&column=9"/>
-
   
 ## 🧰 **Languages and Tools:**  
 

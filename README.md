@@ -74,11 +74,11 @@ fun fact     : I love drawing and watching anime 🎨🍜
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josuejcalazans&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=josuejcalazans&theme=tokyo-night&hide_border=true&area=true)](https://github.com/josuejcalazans)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josuejcalazans&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=josuejcalazans&theme=tokyonight&hide_border=true)
+| 📦 Repositories | ⭐ Stars earned | 🏆 Achievements |
+|:-:|:-:|:-:|
+| **57+** | **8+** | **3** |
 
 </div>
 

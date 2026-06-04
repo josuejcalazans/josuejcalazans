@@ -1,34 +1,118 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Josué Calazans but you can call me Josueeek 😀
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                   JOSUÉ CALAZANS · README.md                  -->
+<!-- ══════════════════════════════════════════════════════════════ -->
 
+<div align="center">
 
-## I'm a passionate self-taught Full Stack Developer 🚀 from Brazil
+```
+// hello, world 👋
+```
 
+# Josué Calazans
+**Full Stack Developer · São Paulo, Brazil 🇧🇷**
 
-<a href="#"><img align="right" src="https://github.com/josuejcalazans/josuejcalazans/blob/master/images/banner.gif" width="200 " height="200" /></a>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josue-calazans/)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:josue.calazans07@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/josuejcalazans)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/josuejcalazans)
 
-- 🔭 I’m currently working at Octea!
-- 🌱 I’m currently learning React Native, Docker, PHP 8, Python, AI and Blockchain.
-- 👯 I’m looking to collaborate with anyone on any project.
-- 💬 Ask me about anything
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love drawing and watching anime.
+</div>
 
+---
 
+## `$ whoami`
 
-### :email: Connect with me: 
+> **Self-taught** Full Stack Developer passionate about building things that work — from frontend to backend, from mobile to infrastructure.  
+> Currently at **Octea**, always exploring new tech and open to collaborations.
 
-[![Instagram Badge](https://img.shields.io/badge/-@josuejcalazans-390080?style=flat-square&labelColor=390080&logo=instagram&logoColor=white&link=https://instagram.com/josuejcalazans)](https://instagram.com/josuejcalazans) 
-[![Linkedin Badge](https://img.shields.io/badge/-Josué%20Jhonatas-390080?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josue-calazans/)](https://www.linkedin.com/in/josue-calazans/) 
-[![Gmail Badge](https://img.shields.io/badge/-josue.calazans07@gmail.com-390080?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josue.calazans07@gmail.com)](mailto:josue.calazans07@gmail.com)
- 
-  
-## 🧰 **Languages and Tools:**  
+```yaml
+location     : São Paulo, Brazil 🇧🇷
+working at   : Kasco AI
+learning     : AI · Blockchain · Docker · React Native · PHP 8 · Python
+collaboration: Open to any project!
+fun fact     : I love drawing and watching anime 🎨🍜
+```
 
+---
 
+## `$ cat stack.json`
 
+### 🖥️ Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,apollo,atom,aws,azure,babel,bootstrap,codepen,css,discord,docker,eclipse,electron,emotion,express,figma,firebase,git,github,githubactions,gitlab,graphql,html,idea,instagram,java,js,jest,jquery,laravel,linkedin,linux,md,mongodb,mysql,nestjs,nextjs,nginx,nodejs,php,postgres,postman,prisma,py,rabbitmq,react,redis,redux,regex,rollupjs,sass,spring,sqlite,stackoverflow,styledcomponents,sequelize,svg,tailwind,ts,vercel,vite,vscode,webpack&perline=22)](https://skillicons.dev)
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP_8-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
+### 🗄️ Databases & Infrastructure
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
+---
 
+## `$ git stats --overview`
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=josuejcalazans&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josuejcalazans&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=josuejcalazans&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## `$ ls -la projects/`
+
+| Project | Description | Tech |
+|---|---|---|
+| [doctrine-point-type](https://github.com/josuejcalazans/doctrine-point-type) | Point type support for Doctrine ORM | PHP |
+| [docker-workspace-laravel](https://github.com/josuejcalazans/docker-workspace-laravel-8-and-9) | Docker workspace for Laravel 8 & 9 | Dockerfile |
+| [text-reader-with-speech](https://github.com/josuejcalazans/text-reader-with-speech) | Text reader with speech synthesis | JavaScript |
+| [speech-synthesis-API](https://github.com/josuejcalazans/speech-synthesis-API) | Robot reader using Web Speech API | HTML/JS |
+
+---
+
+## `$ echo $GOALS_2025`
+
+```bash
+✅  Contribute more to Open Source
+🔄  Master React Native + Expo
+🔄  Dive deeper into AI/ML
+🔄  Build real-world Blockchain projects
+🔄  Fluent CI/CD with Docker & GitHub Actions
+```
+
+---
+
+<div align="center">
+
+```
+</> built with code, coffee & anime in the background 🎌
+```
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=josuejcalazans.josuejcalazans)
+
+</div>
